@@ -1,4 +1,5 @@
 # HealthJacket
+<img src="https://hackster.imgix.net/uploads/attachments/1089390/_WF5R2Iiqay.blob?auto=compress%2Cformat&w=900&h=675&fit=min">
 A jacket that tracks temperature and some vitals and adjust its temperature. Powered by the RSL10-SENSE-DB-GEVK dev kit by ON.
 
 ### Things used in this project
